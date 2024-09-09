@@ -1,13 +1,19 @@
 # Project: Netflix Content Analysis
 
-### Table of Contents  
-[Headers](#headers)  
-[Emphasis](#emphasis)  
+## Table of Contents  
+1. [Introduction](#introduction)
+  * [Business Overview/Problem](#businessoverview/problem)
+  * [Rationale for the Project](#rationalefortheproject)
+2. [Aim of the Project](#aimoftheproject)
+3. [Data Description](#datdescription)
 
-## Headers
+
+
+
+
 
 ## Introduction 
-This project provides a profound learning experience in data analytics by utilizing real-world data from Netflix to assess content from 2008 to 2021. Through Excel, I construct a dynamic and interactive dashboard designed for sophisticated reporting. This task involves leveraging both intermediate and advanced Excel functions to interpret complex data sets effectively. Completing this project enriched my analytical skills, enhancing my ability to navigate and make sense of intricate data landscapes.
+This project provides a profound learning experience in data analytics by utilizing real-world data from Netflix to assess content from 2008 to 2021. I constructed a dynamic and interactive dashboard through Power BI that was designed for sophisticated reporting. This task involves leveraging intermediate and advanced Power BI functions to interpret complex data sets effectively. Completing this project enriched my analytical skills, enhancing my ability to navigate and make sense of intricate data landscapes. The project was completed during my internship at CognoRise Infotech.
 
 ### Business Overview/Problem
 Netflix has been providing content to its customers. It has over 8000 movies or TV shows available on its platform, and as of mid-2021, they have over 200M Subscribers globally. The key obstacles the company encounters include:
