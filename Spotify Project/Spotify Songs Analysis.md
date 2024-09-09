@@ -88,11 +88,11 @@ Power Query was used to clean and transform the data. To complete this process, 
 
 ### Data Analysis and Dashboard Development
 1. I created several charts such as
-  * Bar charts to show artists and tracks by the number of streams and artists by tracks
-  * A Line chart to show charts from various music platforms by track name
-  * A donut chart to show the number of tracks by mode
-  * A column chart to show the number of streams by released month
-  * A Stacked Bar chart to show the top 10 track names by categories.
+   * Bar charts to show artists and tracks by the number of streams and artists by tracks
+   * A Line chart to show charts from various music platforms by track name
+   * A donut chart to show the number of tracks by mode
+   * A column chart to show the number of streams by released month
+   * A Stacked Bar chart to show the top 10 track names by categories.
 2. Designed a dashboard in Power BI to provide an overview of content.
 3. Included key metrics and charts to monitor top songs, top tracks, number of streams, and Number of tracks. 
 4. After creating all the charts, I combined them in a dashboard as shown in Figure 1.
@@ -104,21 +104,36 @@ Power Query was used to clean and transform the data. To complete this process, 
 <br/><br/>
 
 ## Data Interpretation
-1. **Content Type Distribution**: Movies dominate Netflix's library, comprising nearly 70% of the content, while TV shows make up the remaining 30%. This indicates a significant emphasis on movie content.
-2. **Content Addition Over the Years**: The amount of content added has increased significantly from 2015 to 2020, peaking in 2019. There was a slight decline after 2020, potentially due to market saturation or strategic shifts.
-3. **Top Countries by Content Type**: The United States is the leading country producing Netflix content, followed by India and the United Kingdom. The U.S. primarily produces movies, while India has a more balanced distribution between TV shows and movies.
-4. **Top Directors by Content Type**: Rajiv Chilaka, known for producing movies, leads the list of directors, followed closely by Raúl Campos & Jan Suter, who also predominantly direct movies. TV shows, however, are less represented among top directors.
-5. **Top Most Watched Content Categories**: Dramas and international movies are the most-watched categories, closely followed by documentaries and stand-up comedy. The diversity in popular genres suggests a wide range of viewer interests.
-6. **Content Release Years**: Most content was released between 2017 and 2020, with 2018 seeing the highest number of releases. The decline in 2021 suggests a reduction in new releases, possibly due to the COVID-19 pandemic.
-7. **Content Ratings**: TV-MA (mature audience) content dominates, with TV-14 following. This suggests a significant portion of Netflix's audience prefers mature content.
+1. **Top Artists**
+   * Artists such as Taylor Swift, The Weeknd, Ed Sheeran, Bad Bunny, and Harry Styles are key figures in terms of streaming numbers and playlist inclusions.
+   * Taylor Swift stands out in terms of track followed by The Weeknd, Bad Bunny, and SZA.
+2. **Genre and Mood Trends**
+   * Major key songs are dominant, indicating a preference for uplifting or conventional sounds.
+   * High danceability scores suggest that listeners are drawn to rhythmically engaging tracks.
+   * Valence and energy are high across many popular songs, showing that energetic and upbeat tracks are well-received.
+3. **Song Characteristics and Engagement**
+   * Songs with lower danceability, energy, and valence can still perform exceptionally well such as the one by Olivia Rodrigo.
+   * Instrumental is generally low across top tracks, indicating a focus on vocal-led songs.
+4. **Release Timing**
+   * Songs like "LALA" by Myke Towers and "WHERE SHE GOES" by Bad Bunny, are trending heavily with millions of streams, indicating a rapid rise in popularity post-release.
+   * A surge in releases during specific months such as January and May shows strategic timing for song release.
+   * The lower amount of releases during other months shows that this is the period when various music platform must advertise their content to boost listener attraction.
 
 ## Recommendations
-1. **Diversify Content Types**: Since movies are predominant, Netflix could consider expanding its TV show offerings to attract a more diverse audience, particularly in countries like India, where TV shows have a significant market share.
-2. **Leverage Top Categories**: Since dramas and documentaries are popular, Netflix should invest in producing high-quality content in these categories. Additionally, exploring niche categories like stand-up comedy could further attract and retain subscribers.
-3.	Strategic Content Release: The decline in new content after 2020 suggests the need to evaluate current content strategies. Netflix should focus on maintaining a steady flow of releases, even if production is impacted by external factors like pandemics.
-4.	Expand Global Presence: With most content originating from the U.S., expanding production in other regions, especially in Asia and Europe, could help cater to local preferences and increase global viewership.
-5.	Targeted Marketing: Given the dominance of TV-MA ratings, Netflix could tailor its marketing efforts to highlight mature content while ensuring parental controls and family-friendly content are also emphasized to cater to diverse audiences.
-6.	Capitalize on Most Watched Categories: Netflix should consider creating more original content in its top-viewed categories. For example, focusing on cross-genre content that blends drama, international films, and documentaries could drive engagement.
+The following recommendations can drive improved engagement and strategic content planning for Spotify and music marketers. This will help curate playlists that match listener preferences and increase streaming numbers.
+1. **For Playlist Curation**
+   * Prioritize major key and high-energy tracks for general playlists, as these attributes correlate with higher streaming numbers and listener engagement.
+   * Create specialized playlists around emotional songs with lower valence and energy to cater to listeners seeking more contemplative or moody music.
+2. **Release Strategy**
+   * Release new tracks during high-traffic months such as January, March, May, and June when streaming surges, capitalizing on audience activity during holidays or summer.
+   * Release new tracks in the summer months when people are on holiday to enhance satisfaction.
+3. **Audience Engagement**
+   * Promote songs with high danceability and energy during periods associated with high activity, such as parties or events, to drive streams.
+   * Explore creating viral dance challenges or campaigns for high-danceability tracks to increase social media exposure and streaming.
+4. **Diversity in Musical Offerings**
+   * While upbeat tracks dominate, there is a market for more emotionally nuanced or acoustic songs. Consider balancing playlists with both energetic and slower, more emotional tracks to capture a wider audience.
+     
+
    
 **Thank you for taking the time to read this report!**
 
