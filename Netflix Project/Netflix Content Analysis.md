@@ -101,6 +101,8 @@ The analysis was performed in Power BI. To do so,
 4.	Expand Global Presence: With most content originating from the U.S., expanding production in other regions, especially in Asia and Europe, could help cater to local preferences and increase global viewership.
 5.	Targeted Marketing: Given the dominance of TV-MA ratings, Netflix could tailor its marketing efforts to highlight mature content while ensuring parental controls and family-friendly content are also emphasized to cater to diverse audiences.
 6.	Capitalize on Most Watched Categories: Netflix should consider creating more original content in its top-viewed categories. For example, focusing on cross-genre content that blends drama, international films, and documentaries could drive engagement.
+
+<br/>
    
 **Thank you for taking the time to read this report!**
 
