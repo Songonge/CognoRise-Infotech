@@ -50,7 +50,7 @@ This dataset consists of listings of all the movies and TV shows available on Ne
 *	*ListedIn*: The category in which the Movie or TV Show is listed
 
 ## Tech Stack
-The analysis tool for this project is basic and focused on data analysis using Microsoft Excel. I utilize Excel's built-in features like pivot tables and charts to analyze content data.
+The analysis tool for this project is basic and focused on data analysis using Microsoft Power BI. I utilize Power BI's built-in features like Visualizations, and filters to analyze content data.
 
 ## Project Scope
 * **Data Gathering and Integration**
@@ -64,18 +64,18 @@ The analysis tool for this project is basic and focused on data analysis using M
   4. Delete unneeded columns
   5. Split columns appropriately where necessary
 
-* **Data Analysis In Excel**
-  1. Utilize Excel's built-in features like pivot tables and charts to analyze content data.
+* **Data Analysis In Power BI**
+  1. Utilize Power BI's built-in features to analyze content data.
   2. Identify customers’ preferences.
   3. Identify trends by visualizing data through simple charts and graphs.
  
 * **Dashboard Development**
-  1. Create an Excel-based dashboard to provide an overview of content.
+  1. Create an interactive Power BI dashboard to provide an overview of content.
   2. Include key metrics and charts to monitor watched trends by type, country, and content category.
 
 * **Data Analysis and Visualization**
-The analysis was performed in Excel. To do so,  
-*	I created Pivot tables using data from each field. This helped me summarize data by category and obtain simple tables that will be used to create visuals. 
+The analysis was performed in Power BI. To do so,  
+*	I used tables to create visuals. 
 *	I created several charts such as Bar charts, Line charts, a pie chart, a Map, and Stacked Bar charts.
 *	After creating all the charts, I combined them in a dashboard as shown in Figure 1.
 
