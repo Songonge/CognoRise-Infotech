@@ -80,7 +80,7 @@ The analysis was performed in Excel. To do so,
 *	After creating all the charts, I combined them in a dashboard as shown in Figure 1.
 
 <figure>
-  <img src="https://github.com/Songonge/CognoRise-Infotech/blob/main/Netflix Project/Netflix Content Analysis/Netflix Dashboard.png" width=100% height=100% alt="alt text">
+  <img src="https://github.com/Songonge/CognoRise-Infotech/blob/main/Netflix Project/Netflix Dashboard.png" width=100% height=100% alt="alt text">
   <figcaption>Figure: Netflix Content Analysis Dashboard</figcaption>
 </figure>
 <br/><br/>
