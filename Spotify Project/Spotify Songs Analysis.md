@@ -8,6 +8,9 @@
 3. [Data Description](#datdescription)
 4. [Tech Stack](#techstack)
 5. [Project Scope](#projectscope)
+   * [Data Gathering and Integration](#datagatheringandintegration)
+   * [Data Cleaning](#datacleaning)
+   * [Data Analysis and Dashboard Development](#ddataanalysisanddashboarddevelopment)
 6. [Data Interpretation](#datainterpretation)
 7. [Recommendations](#recommendations)
 
@@ -69,26 +72,30 @@ This dataset consists of information such as track name, artist name, release da
 The analysis tool for this project focused on data analysis using Microsoft Power BI. Therefore, Power BI's built-in features were used to analyze data and design an interactive dashboard.
 
 ## Project Scope
-* **Data Gathering and Integration**
+To complete this project, several steps were followed such as data gathering, data cleaning, data analysis, and dashboard development.
+
+### Data Gathering and Integration
   1. Download Spotify Songs content from Kaggle.
   2. Store the data in a secure folder for further steps.
 
-* **Data Cleaning**: Power Query was used to clean and transform the data. To complete this process, I
-  1. Renamed fields for consistency.
-  2. Checked for nulls across all columns and replaced them with 0.
-  3. Replaced empty values with "Not Given" where necessary.
-  4. Removed the Error value in the Stream column by replacing it with the mean of the column.
+### Data Cleaning
+Power Query was used to clean and transform the data. To complete this process, I
+1. Connected to the data using the Get data feature in Power BI
+2. Renamed fields for consistency.
+3. Checked for nulls across all columns and replaced them with 0.
+4. Replaced empty values with "Not Given" where necessary.
+5. Removed the Error value in the Stream column by replacing it with the mean of the column.
 
-* **Data Analysis and Dashboard Development**
-  1. I created several charts such as
-    * Bar charts to show artists and tracks by the number of streams and artists by tracks
-    * A Line chart to show charts from various music platforms by track name
-    * A donut chart to show the number of tracks by mode
-    * A column chart to show the number of streams by released month
-    * A Stacked Bar chart to show the top 10 track names by categories.
-  2. Designed a dashboard in Power BI to provide an overview of content.
-  3. Included key metrics and charts to monitor top songs, top tracks, number of streams, and Number of tracks. 
-  4. After creating all the charts, I combined them in a dashboard as shown in Figure 1.
+### Data Analysis and Dashboard Development
+1. I created several charts such as
+  * Bar charts to show artists and tracks by the number of streams and artists by tracks
+  * A Line chart to show charts from various music platforms by track name
+  * A donut chart to show the number of tracks by mode
+  * A column chart to show the number of streams by released month
+  * A Stacked Bar chart to show the top 10 track names by categories.
+2. Designed a dashboard in Power BI to provide an overview of content.
+3. Included key metrics and charts to monitor top songs, top tracks, number of streams, and Number of tracks. 
+4. After creating all the charts, I combined them in a dashboard as shown in Figure 1.
 
 <figure>
   <img src="https://github.com/Songonge/CognoRise-Infotech/blob/main/Spotify Project/Spotify Dashboard.png" width=100% height=100% alt="alt text">
