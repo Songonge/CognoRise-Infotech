@@ -5,14 +5,17 @@
    * [Business Overview/Problem](#businessoverview/problem)
    * [Rationale for the Project](#rationalefortheproject)
 2. [Aim of the Project](#aimoftheproject)
-3. [Data Description](#datdescription)
-4. [Tech Stack](#techstack)
-5. [Project Scope](#projectscope)
+3. [Tech Stack](#techstack)
+4. [Step 1: Loading and preparing data in Power BI](#step1loadingandpreparingdatainpowerbi)
    * [Data Gathering and Integration](#datagatheringandintegration)
-   * [Data Cleaning](#datacleaning)
-   * [Data Analysis and Dashboard Development](#ddataanalysisanddashboarddevelopment)
-6. [Data Interpretation](#datainterpretation)
-7. [Recommendations](#recommendations)
+   * [Data Description and Exploration](#datadescriptionandexploration)
+   * [Data Cleaning and Transformation](#datacleaningandtransformation)
+5. [Step 2: Building a Relational Model Between Tables](#step2buildingarelationalmodelbetweentables)
+6. [Step 3: Adding Data Analysis Expression (DAX) Measures to the tables](#step3addingdataanalysisexpression(DAX)measurestothetables)
+7. [Step 4: Designing an Interactive Dashboard](#step4designinganinteractivedashboard)
+8. [Data Interpretation](#datainterpretation)
+9. [Recommendations](#recommendations)
+
 
 ## Introduction
 Every day, data is generated about flights including airport names, departure and arrival airports, flight status, etc. It is interesting to analyze the data generated through those processes to understand how customers can be better satisfied.  
