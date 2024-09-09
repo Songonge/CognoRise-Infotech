@@ -31,7 +31,7 @@ The rationale behind the Spotify songs analysis project centers around the need 
 2. **Identify Popular Trends**: Analyze streaming patterns to detect emerging music genres, popular artists, and hit songs, allowing for timely content curation.
 3. **Support Data-Driven Decisions**: Provide Spotify's marketing and product teams with actionable insights to drive targeted campaigns and improve customer retention.
 4. **Optimize Playlist Creation**: Use song characteristics data such as energy, danceability, and liveness to curate more engaging and relevant playlists for different user segments.
-5. Monetize Listener Preferences**: Help Spotify maximize revenue by analyzing which types of content or artists are most popular with different demographic groups, allowing for better advertising or subscription targeting.
+5. **Monetize Listener Preferences**: Help Spotify maximize revenue by analyzing which types of content or artists are most popular with different demographic groups, allowing for better advertising or subscription targeting.
 
 ## Aim of the Project
 The key tasks in this project are to understand what are the top songs and artists on Spotify content and provide recommendations regarding user preferences. Some specific objectives are: 
