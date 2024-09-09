@@ -153,7 +153,7 @@ DAX measures were used to define custom calculations. This was to enhance my dat
 ## Step 4: Designing an Interactive Dashboard
 This step involves creating visuals and charts in Power BI to show a comprehensive overview of the flights' data.
 1. I created several charts such as
-   * Bar charts to show total flights by city and delayed flights by airline
+   * Bar charts to show total flights by city, delayed and canceled flights by airline
    * A Line chart to show both canceled and delayed flights by airport
    * Line charts to show total flights by month for On-Time, Delayed, and Canceled
    * A donut chart to show canceled flights for different cancellation reasons
@@ -169,56 +169,44 @@ This step involves creating visuals and charts in Power BI to show a comprehensi
 
 ## Data Interpretation
 1. **Delayed Flights**
-   * 36% of flights were delayed.
+   * Out of 6 million total flights, 2 million (36%) were delayed.
    * Out of the total of more than 6 million flights, 2 million flights were delayed.
    * Southwest Airlines Co. was the leading airline with a huge number of delayed flights (566.6K) followed by Delta Air Lines (282.4K) and United Airlines (256.2K).
 
 2. **Canceled Flights**
-   * Out of the total of 6 million flights, 90 thousand flights were canceled.
+   * Out of the total of 6 million flights, 90 thousand (2%) were canceled.
    * The primary cause of flight cancellations was weather (54.3%), followed by airline/carrier-related issues (28.1%), national air system problems (17.5%), and security reasons (minor percentage).
-   * Southwest Airlines Co. was the leading airline with a huge number of canceled flights followed by Atlantic Southeast Airlines and American Eagle Airlines.
+   * Southwest Airlines Co. was the leading airline with a maximum number of canceled flights (16K) followed by Atlantic Southeast Airlines (15.2K) and American Eagle Airlines (15K).
 3. **On-Time Flights**
-   * 62% of flights were on time.
-36% were delayed, and 2% were canceled.
-Cancellation by Day:
+   * Out of the total of 6 million flights, 4 million (62%) were on time.
+   * Chicago is the leading city with the maximum number of flights (366.8K) followed by Atlanta (346.8K) and Dallas-Fort Worth (239.6K)
+   * Saturday was the day with the maximum of On-Time flights whereas Monday was the day with fewer On-Time flights.
+4. **Cancellation by Day**
+   * Flight cancellations peaked on Monday (2.6%) followed by Tuesday (1.9%) and Sunday (1.7%).
+   * Flight cancellations were lowest on Friday 4 (1.1%) followed by Wednesday and Saturday (1.3%).
+5. **Delays by Day**
+   * The percentage of delayed flights ranged between 34% to 38%, with day Saturday showing the lowest delay percentage and day Thursday showing the highest delay percentage.
+6. **Cancellations and Delays by Airport**
+   * Hartsfield-Jackson Atlanta, Chicago O'Hare, and Dallas International Airports were among the hardest-hit cities by both cancellations and delays.
+   * Gustavus, King Salmon, and Ithaca Tompkins Regional airports were those with the lowest canceled and delayed flights.
+   * The chart shows a general decline in the number of canceled and delayed flights from major airports over time.
 
-Flight cancellations peaked on day 2 (2.6%) and were lowest on day 4 (1.3%).
-Delays by Day:
+## Recommendations:
+The following recommendations are provided to help airlines and airports enhance their performance, reduce delays and cancellations, and improve customer satisfaction.
+1. **Improve Weather Forecasting and Planning**
+   * Since the weather was the largest cause of flight cancellations, investing in better predictive weather technology and scheduling buffer times for adverse conditions could reduce cancellation rates.
+2. **Optimize Airline Operations**
+   * Southwest Airlines and Delta Air Lines had the highest number of delays. These airlines could improve by reviewing operational efficiency, staffing adequacy, and maintenance schedules to reduce delays.
+3. **Strengthen National Air System Coordination**
+   * A significant portion of cancellations were due to national air system problems. Better communication and coordination between airlines and air traffic control could help reduce these disruptions.
+4. **Address Frequent Issues at Busy Airports**
+   * Airports like Hartsfield-Jackson Atlanta, Chicago O'Hare, and Dallas International experience the most cancellations and delays. Implementing more effective contingency plans and increasing staff during high-traffic times could reduce the impact.
+5. **Improve Security Procedures**
+   * Although a minor contributor, security-related cancellations should be further minimized by enhancing security processes and pre-screening measures to avoid unnecessary delays.
+6. **Focus on Peak Delay and Cancellation Days**
+   * Monday saw the highest cancellations. Airlines should focus more resources on this high-risk day, possibly by reducing the number of scheduled flights or allocating extra staff and equipment.
 
-The percentage of delayed flights ranged between 34% to 38%, with day 4 showing the lowest delay percentage and day 6 showing the highest delay percentage.
-Cancellations and Delays by Airport:
-
-Chicago and Dallas were among the hardest-hit cities by both cancellations and delays.
-The chart shows a general decline in the number of canceled and delayed flights from major airports over time.
-   * The city with the most delayed flights was Chicago (366.8K delayed flights), followed by Atlanta (346.8K).
-
-
-
-Recommendations:
-Improve Weather Forecasting and Planning:
-
-Since weather was the largest cause of flight cancellations, investing in better predictive weather technology and scheduling buffer times for adverse conditions could reduce cancellation rates.
-Optimize Airline Operations:
-
-Southwest Airlines and Delta Air Lines had the highest number of delays. These airlines could improve by reviewing operational efficiency, staffing adequacy, and maintenance schedules to reduce delays.
-Strengthen National Air System Coordination:
-
-A significant portion of cancellations were due to national air system problems. Better communication and coordination between airlines and air traffic control could help reduce these disruptions.
-Address Frequent Issues at Busy Airports:
-
-Airports like Chicago and Dallas experience the most cancellations and delays. Implementing more effective contingency plans and increasing staff during high-traffic times could reduce the impact.
-Improve Security Procedures:
-
-Although a minor contributor, security-related cancellations should be further minimized by enhancing security processes and pre-screening measures to avoid unnecessary delays.
-Focus on Peak Delay and Cancellation Days:
-
-Specific days, such as day 2, saw the highest cancellations and delays. Airlines should focus more resources on these high-risk days, possibly by reducing the number of scheduled flights or allocating extra staff and equipment.
-These recommendations can help airlines and airports enhance their performance, reduce delays and cancellations, and improve customer satisfaction.
-
-## Recommendations
-The following recommendations can drive improved engagement and strategic content planning for Spotify and music marketers. This will help curate playlists that match listener preferences and increase streaming numbers.
-
-     
+   
 <br/>
    
 **Thank you for taking the time to read this report!**
