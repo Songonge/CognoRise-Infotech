@@ -6,16 +6,10 @@
    * [Rationale for the Project](#rationalefortheproject)
 2. [Aim of the Project](#aimoftheproject)
 3. [Data Description](#datdescription)
-
-
-  * [Dockerfile.vim](#dockerfilevim)
-  * [Screenshot](#screenshot)
-  * [Installation](#installation)
-    * [OR using Pathogen:](#or-using-pathogen)
-    * [OR using Vundle:](#or-using-vundle)
-  * [License](#license)
-
-
+4. [Tech Stack](#techstack)
+5. [Project Scope](#projectscope)
+6. [Data Interpretation](#datainterpretation)
+7. [Recommendations](#recommendations)
 
 ## Introduction 
 This project provides a profound learning experience in data analytics by utilizing real-world data from Netflix to assess content from 2008 to 2021. I constructed a dynamic and interactive dashboard through Power BI that was designed for sophisticated reporting. This task involves leveraging intermediate and advanced Power BI functions to interpret complex data sets effectively. Completing this project enriched my analytical skills, enhancing my ability to navigate and make sense of intricate data landscapes. The project was completed during my internship at CognoRise Infotech.
@@ -86,7 +80,7 @@ The analysis was performed in Excel. To do so,
 *	After creating all the charts, I combined them in a dashboard as shown in Figure 1.
 
 <figure>
-  <img src="https://github.com/Songonge/Data-Analytics-Projects/blob/main/All Projects/Netflix Content Analysis/Netflix Dashboard.png" width=100% height=100% alt="alt text">
+  <img src="https://github.com/Songonge/CognoRise-Infotech/blob/main/Netflix Content Analysis/Netflix Dashboard.png" width=100% height=100% alt="alt text">
   <figcaption>Figure: Netflix Content Analysis Dashboard</figcaption>
 </figure>
 <br/><br/>
