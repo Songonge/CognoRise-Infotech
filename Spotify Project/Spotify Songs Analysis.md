@@ -131,7 +131,7 @@ The following recommendations can drive improved engagement and strategic conten
    * Promote songs with high danceability and energy during periods associated with high activity, such as parties or events, to drive streams.
    * Explore creating viral dance challenges or campaigns for high-danceability tracks to increase social media exposure and streaming.
 4. **Diversity in Musical Offerings**
-   * While upbeat tracks dominate, there is a market for more emotionally nuanced or acoustic songs. Consider balancing playlists with both energetic and slower, more emotional tracks to capture a wider audience.
+   * While upbeat tracks dominate, there is a market for more emotionally nuanced or acoustic songs. Consider balancing playlists with both energetic and slower, more emotional tracks to capture a wider audience.  
      
 
    
