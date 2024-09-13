@@ -2,13 +2,13 @@
 
 ## Table of Contents  
 1. [Introduction](#introduction)
-   * [Business Overview/Problem](#businessoverview/problem)
-   * [Rationale for the Project](#rationalefortheproject)
-2. [Aim of the Project](#aimoftheproject)
-3. [Data Description](#datdescription)
-4. [Tech Stack](#techstack)
-5. [Project Scope](#projectscope)
-6. [Data Interpretation](#datainterpretation)
+   * [Business Overview or Problem](#business-overview-or-problem)
+   * [Rationale for the Project](#rationale-for-the-project)
+2. [Aim of the Project](#aim-of-the-project)
+3. [Data Description](#data-description)
+4. [Tech Stack](#tech-stack)
+5. [Project Scope](#project-scope)
+6. [Data Interpretation](#data-interpretation)
 7. [Recommendations](#recommendations)
 
 ## Introduction 
