@@ -2,7 +2,7 @@
 
 ## Table of Contents  
 1. [Introduction](#introduction)
-   * [Business Overview/Problem](#business-overview/problem)
+   * [Business Overview/Problem](#business-overview-problem)
    * [Rationale for the Project](#rationalefortheproject)
 2. [Aim of the Project](#aimoftheproject)
 3. [Tech Stack](#techstack)
