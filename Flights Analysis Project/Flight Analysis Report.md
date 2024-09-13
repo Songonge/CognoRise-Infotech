@@ -3,17 +3,17 @@
 ## Table of Contents  
 1. [Introduction](#introduction)
    * [Business Overview or Problem](#business-overview-or-problem)
-   * [Rationale for the Project](#rationalefortheproject)
-2. [Aim of the Project](#aimoftheproject)
-3. [Tech Stack](#techstack)
-4. [Step 1: Loading and preparing data in Power BI](#step1loadingandpreparingdatainpowerbi)
-   * [Data Gathering and Integration](#datagatheringandintegration)
-   * [Data Description and Exploration](#datadescriptionandexploration)
-   * [Data Cleaning and Transformation](#datacleaningandtransformation)
-5. [Step 2: Building a Relational Model Between Tables](#step2buildingarelationalmodelbetweentables)
-6. [Step 3: Adding Data Analysis Expression (DAX) Measures to the tables](#step3addingdataanalysisexpression(DAX)measurestothetables)
-7. [Step 4: Designing an Interactive Dashboard](#step4designinganinteractivedashboard)
-8. [Data Interpretation](#datainterpretation)
+   * [Rationale for the Project](#rationale-for-the-project)
+2. [Aim of the Project](#aim-of-the-project)
+3. [Tech Stack](#tech-stack)
+4. [Step 1: Loading and preparing data in Power BI](#step-1:-loading-and-preparing-data-in-power-bi)
+   * [Data Gathering and Integration](#data-gathering-and-integration)
+   * [Data Description and Exploration](#data-description-and-exploration)
+   * [Data Cleaning and Transformation](#data-cleaning-and-transformation)
+5. [Step 2: Building a Relational Model Between Tables](#step-2:-building-a-relational-model-between-tables)
+6. [Step 3: Adding Data Analysis Expression (DAX) Measures to the tables](#step-3:-adding-data-analysis-expression-(DAX)-measures-to-the-tables)
+7. [Step 4: Designing an Interactive Dashboard](#step-4:-designing-an-interactive-dashboard)
+8. [Data Interpretation](#data-interpretation)
 9. [Recommendations](#recommendations)
 
 
@@ -21,7 +21,7 @@
 Every day, data is generated about flights including airport names, departure and arrival airports, flight status, etc. It is interesting to analyze the data generated through those processes to understand how customers can be better satisfied.  
 This project focuses on analyzing flight status based on data collected from different airports during the year 2015. The project was completed during my internship at CognoRise Infotech.
 
-### Business Overview/Problem
+### Business Overview or Problem
 This project leverages data analytics to analyze flight status from different airports. It provides actionable insights to better understand flight delays and cancellations and highlights the most common reasons for flight cancellations. The goal is to better understand flight status and improve customer experience in different airports.
 The key obstacles involving technical and regulatory challenges could include:
 1. **Data Accuracy and Availability**: Flight data may be incomplete, inaccurate, or delayed, making it difficult to perform real-time or historical analysis effectively.
