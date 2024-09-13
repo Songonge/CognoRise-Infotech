@@ -10,9 +10,9 @@
    * [Data Gathering and Integration](#data-gathering-and-integration)
    * [Data Description and Exploration](#data-description-and-exploration)
    * [Data Cleaning and Transformation](#data-cleaning-and-transformation)
-5. [Step 2: Building a Relational Model Between Tables](#step-2:-building-a-relational-model-between-tables)
-6. [Step 3: Adding Data Analysis Expression (DAX) Measures to the tables](#step-3:-adding-data-analysis-expression-(DAX)-measures-to-the-tables)
-7. [Step 4: Designing an Interactive Dashboard](#step-4:-designing-an-interactive-dashboard)
+5. [Step 2: Building a Relational Model Between Tables](#step-2-building-a-relational-model-between-tables)
+6. [Step 3: Adding Data Analysis Expression (DAX) Measures to the tables](#step-3-adding-data-analysis-expression-(DAX)-measures-to-the-tables)
+7. [Step 4: Designing an Interactive Dashboard](#step-4-designing-an-interactive-dashboard)
 8. [Data Interpretation](#data-interpretation)
 9. [Recommendations](#recommendations)
 
