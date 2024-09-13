@@ -2,23 +2,23 @@
 
 ## Table of Contents  
 1. [Introduction](#introduction)
-   * [Business Overview/Problem](#businessoverview/problem)
-   * [Rationale for the Project](#rationalefortheproject)
-2. [Aim of the Project](#aimoftheproject)
-3. [Data Description](#datdescription)
-4. [Tech Stack](#techstack)
-5. [Project Scope](#projectscope)
-   * [Data Gathering and Integration](#datagatheringandintegration)
-   * [Data Cleaning](#datacleaning)
-   * [Data Analysis and Dashboard Development](#ddataanalysisanddashboarddevelopment)
-6. [Data Interpretation](#datainterpretation)
+   * [Business Overview/Problem](#business-overview-or-problem)
+   * [Rationale for the Project](#rationale-for-the-project)
+2. [Aim of the Project](#aim-of-the-project)
+3. [Data Description](#data-description)
+4. [Tech Stack](#tech-stack)
+5. [Project Scope](#project-scope)
+   * [Data Gathering and Integration](#data-gathering-and-integration)
+   * [Data Cleaning](#data-cleaning)
+   * [Data Analysis and Dashboard Development](#data-analysis-and-dashboard-development)
+6. [Data Interpretation](#data-interpretation)
 7. [Recommendations](#recommendations)
 
 ## Introduction 
 This project is the second one completed during my internship at CognoRise Infotech. The project provides an analysis of Spotify songs for the year 2023. The dataset includes famous songs listed on Spotify and describes each song's popularity and attributes on different music platforms.
 This project was completed in Power BI where I designed an interactive dashboard to communicate insights from the analysis. 
 
-### Business Overview/Problem
+### Business Overview or Problem
 This project leverages Power BI to analyze Spotify song data, providing insights into trends, listener preferences, and genre popularity. By visualizing metrics such as streaming counts and song characteristics, this analysis helps music curators, marketing teams, and artists make data-driven decisions. The goal is to optimize playlist recommendations, target specific audience segments, and enhance user engagement on the platform. Additionally, it supports predictive analysis for emerging artists or trends, allowing Spotify to remain competitive in the digital music landscape.
 The key obstacles that could arise include:
 1. **Data Availability and Access**: Ensuring access to accurate, real-time Spotify song data might be challenging due to API limitations or licensing restrictions.
