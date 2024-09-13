@@ -6,7 +6,7 @@
    * [Rationale for the Project](#rationale-for-the-project)
 2. [Aim of the Project](#aim-of-the-project)
 3. [Tech Stack](#tech-stack)
-4. [Step 1: Loading and preparing data in Power BI](#step-1:-loading-and-preparing-data-in-power-bi)
+4. [Step 1 Loading and preparing data in Power BI](#step-1-loading-and-preparing-data-in-power-bi)
    * [Data Gathering and Integration](#data-gathering-and-integration)
    * [Data Description and Exploration](#data-description-and-exploration)
    * [Data Cleaning and Transformation](#data-cleaning-and-transformation)
