@@ -14,7 +14,7 @@
 ## Introduction 
 This project provides a profound learning experience in data analytics by utilizing real-world data from Netflix to assess content from 2008 to 2021. I constructed a dynamic and interactive dashboard through Power BI that was designed for sophisticated reporting. This task involves leveraging intermediate and advanced Power BI functions to interpret complex data sets effectively. Completing this project enriched my analytical skills, enhancing my ability to navigate and make sense of intricate data landscapes. The project was completed during my internship at CognoRise Infotech.
 
-### Business Overview/Problem
+### Business Overview or Problem
 Netflix has been providing content to its customers. It has over 8000 movies or TV shows available on its platform, and as of mid-2021, they have over 200M Subscribers globally. The key obstacles the company encounters include:
 1. **Limited Data Analysis**: The lack of data analysis tools hinders the company's ability to gain insights into customer preferences and country trends.
 2. **Resource Allocation**: Netflix struggles to allocate resources efficiently in each country, leading to customer dissatisfaction.
